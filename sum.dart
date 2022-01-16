@@ -5,7 +5,7 @@ var b =15;
 var c;
 
 c=a+b;
-print(c);
+print("The sum of numbers is $c");
 
 
 }
